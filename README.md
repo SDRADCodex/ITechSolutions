@@ -1,2 +1,2 @@
 # ITechSolutions
-Public page for ITSS c
+Public page for ITSS 
